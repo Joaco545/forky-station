@@ -353,7 +353,7 @@
   id: BookStationRegulations
   parent: BaseGuidebook
   name: nanotrasen station regulations
-  description: The book all captains should know by heart but dont.
+  description: The book all captains should know by heart but don't.
   components:
   - type: Sprite
     layers:
@@ -376,7 +376,7 @@
   id: BookSpaceLaw
   parent: BaseGuidebook
   name: corporate law # Funky change: Rebranding Space law into Corporate law
-  description: A set of Nanotrasen guidelines for keeping law and order on their space stations.
+  description: A set of NanoTrasen guidelines for keeping law and order on their space stations.
   components:
   - type: Sprite
     layers:
@@ -419,7 +419,7 @@
   id: BookSentencingGuidelines
   parent: BaseGuidebook
   name: sentencing, trials, and hearings
-  description: A set of Nanotrasen guidelines for keeping stentences resonable and trials on time.
+  description: A set of NanoTrasen guidelines for keeping sentences reasonable and trials on time.
   components:
   - type: Sprite
     layers:
