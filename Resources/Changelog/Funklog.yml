@@ -681,4 +681,11 @@
   id: 77
   time: '2026-09-10T21:25:34Z'
   url: https://github.com/funky-station/forky-station/pull/440
+- author: VectorAssembly, AraiMaia
+  changes:
+  - message: Ported a ton of Vector's sprites over to Funky.
+    type: Add
+  id: 78
+  time: '2026-09-10T22:51:25Z'
+  url: https://github.com/funky-station/forky-station/pull/460
 Order: -1
