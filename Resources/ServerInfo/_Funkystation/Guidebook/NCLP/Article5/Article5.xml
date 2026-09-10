@@ -46,21 +46,21 @@
         When determining brig times, standard times based on the crime severity and punishment classification should be used as the starting point. Additional modifiers based on circumstances can be placed to increase or decrease the final time and/or tier.
 
         Infractions:
-            - No brig time. Ticket \+ Warning recommended.  
+            - No brig time. Ticket \+ Warning recommended.
         
-        Misdemeanors:  
-        - Class C: 8 Minutes  
-        - Class B: 10 Minutes  
-        - Class A: 12 Minutes  
+        Misdemeanors:
+        - Class C: 8 Minutes
+        - Class B: 10 Minutes
+        - Class A: 12 Minutes
         
-        Felonies:  
-        - Class C: 16 Minutes  
-        - Class B: 20 Minutes  
-        - Class A: 24 Minutes  
+        Felonies:
+        - Class C: 16 Minutes
+        - Class B: 20 Minutes
+        - Class A: 24 Minutes
         
-        Capital Offenses:   
-        - Class C: Permanent Confinement  
-        - Class B: Permanent Confinement without Parole  
+        Capital Offenses:
+        - Class C: Permanent Confinement
+        - Class B: Permanent Confinement without Parole
         - Class A: Execution
 
     ### Crime Categories and Stacking Crimes
@@ -304,9 +304,9 @@
 
     2. Plea
 
-        The Judge formally asks: “How does the Defendant Plea?”
+        The Judge formally asks: “How does the Defendant plea?”
         
-        If the Defense pleads guilty, skip to step 5 (Sentencing)
+        If the Defense pleads guilty, skip to step 5 (Sentencing).
         
         If the Defense pleads not guilty, proceed.
 
@@ -369,7 +369,7 @@
 
        Consultations are confidential. Statements said in consultation never have to be disclosed.
        
-       There is no strict time limit on consultation, but time spent consulting does not reduce any eventual sentence.  
+       There is no strict time limit on consultation, but time spent consulting does not reduce any eventual sentence.
        
        Both sides are recommended to plan for and consider:
        
@@ -387,9 +387,9 @@
 
     2. Plea
 
-       The Magistrate formally asks: “How does the Defendant Plea?”
+       The Magistrate formally asks: “How does the Defendant plea?”
        
-       If the Defense pleads guilty, skip to step 7 (Allocution)
+       If the Defense pleads guilty, skip to step 7 (Allocution).
        
        If the Defense pleads not guilty, proceed.
 
@@ -459,11 +459,11 @@
     ### Proposal
 
         Any crew member may consult with a Lawyer to propose a Lawsuit. For a Lawsuit proposal to be valid for consideration, it must contain the following statements:
-        - Offended Party  
-        - Offending Party  
-        - Perceived Injustices  
-        - Damages Caused  
-        - Requested Compensation
+        - Offended Party,
+        - Offending Party,
+        - Perceived Injustices,
+        - Damages Caused,
+        - Requested Compensation.
 
         All Lawsuit proposals must be stamped and signed by its representative Lawyer before it is formally considered.
 
