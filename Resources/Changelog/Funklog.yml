@@ -663,4 +663,22 @@
   id: 76
   time: '2026-09-10T18:42:31Z'
   url: https://github.com/funky-station/forky-station/pull/319
+- author: Rainbeon
+  changes:
+  - message: 'Added a new roundstart lawset: NT Standard.'
+    type: Add
+  - message: MMIs no longer fit in Cyborgs.
+    type: Tweak
+  - message: Renamed Cyborgs to Automas.
+    type: Tweak
+  - message: Automascan no longer use Common comms.
+    type: Tweak
+  - message: Updated the Guidebook for Automas.
+    type: Tweak
+  - message: Modified NT Default to NT Deprecated - with the contents being the last
+      updated version of NTD from Funky.
+    type: Tweak
+  id: 77
+  time: '2026-09-10T21:25:34Z'
+  url: https://github.com/funky-station/forky-station/pull/440
 Order: -1
