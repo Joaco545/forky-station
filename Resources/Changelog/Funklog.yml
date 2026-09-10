@@ -651,4 +651,16 @@
   id: 75
   time: '2026-09-10T17:37:33Z'
   url: https://github.com/funky-station/forky-station/pull/450
+- author: Ven
+  changes:
+  - message: Medical beds now accept gas tanks. Internals aswell
+    type: Add
+  - message: Operating tables have a  toggleable overhead light and visual monitor.
+      And sounds!
+    type: Add
+  - message: Furniture wheels now play a little sound and are synced up with wrenches.
+    type: Tweak
+  id: 76
+  time: '2026-09-10T18:42:31Z'
+  url: https://github.com/funky-station/forky-station/pull/319
 Order: -1
