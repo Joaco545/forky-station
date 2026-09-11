@@ -688,4 +688,13 @@
   id: 78
   time: '2026-09-10T22:51:25Z'
   url: https://github.com/funky-station/forky-station/pull/460
+- author: Gamercodeleo1, pirakaplant, Alicios
+  changes:
+  - message: Added a playtest version of the Station Regulations to the guidebook.
+    type: Add
+  - message: Fixed a few grammatical errors and inconsistencies in NTCLP.
+    type: Fix
+  id: 79
+  time: '2026-09-11T01:22:29Z'
+  url: https://github.com/funky-station/forky-station/pull/462
 Order: -1
