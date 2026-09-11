@@ -697,4 +697,11 @@
   id: 79
   time: '2026-09-11T01:22:29Z'
   url: https://github.com/funky-station/forky-station/pull/462
+- author: AraiMaia
+  changes:
+  - message: Added handheld versions of Station News and the LogProbe.
+    type: Add
+  id: 80
+  time: '2026-09-11T01:28:44Z'
+  url: https://github.com/funky-station/forky-station/pull/447
 Order: -1
