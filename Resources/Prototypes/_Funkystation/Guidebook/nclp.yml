@@ -102,6 +102,67 @@
   id: Article_3
   name: guide-entry-nclp-article-3
   text: "/ServerInfo/_Funkystation/Guidebook/NCLP/Article3/Article3.xml"
+  children:
+    - Article_3_01
+    - Article_3_02
+    - Article_3_03
+    - Article_3_04
+    - Article_3_05
+    - Article_3_06
+    - Article_3_07
+    - Article_3_08
+    - Article_3_09
+    - Article_3_10
+
+- type: guideEntry
+  id: Article_3_01
+  name: guide-entry-nclp-article-3-section-01
+  text: "/ServerInfo/_Funkystation/Guidebook/NCLP/Article3/Article3_01.xml"
+
+- type: guideEntry
+  id: Article_3_02
+  name: guide-entry-nclp-article-3-section-02
+  text: "/ServerInfo/_Funkystation/Guidebook/NCLP/Article3/Article3_02.xml"
+
+- type: guideEntry
+  id: Article_3_03
+  name: guide-entry-nclp-article-3-section-03
+  text: "/ServerInfo/_Funkystation/Guidebook/NCLP/Article3/Article3_03.xml"
+
+- type: guideEntry
+  id: Article_3_04
+  name: guide-entry-nclp-article-3-section-04
+  text: "/ServerInfo/_Funkystation/Guidebook/NCLP/Article3/Article3_04.xml"
+
+- type: guideEntry
+  id: Article_3_05
+  name: guide-entry-nclp-article-3-section-05
+  text: "/ServerInfo/_Funkystation/Guidebook/NCLP/Article3/Article3_05.xml"
+
+- type: guideEntry
+  id: Article_3_06
+  name: guide-entry-nclp-article-3-section-06
+  text: "/ServerInfo/_Funkystation/Guidebook/NCLP/Article3/Article3_06.xml"
+
+- type: guideEntry
+  id: Article_3_07
+  name: guide-entry-nclp-article-3-section-07
+  text: "/ServerInfo/_Funkystation/Guidebook/NCLP/Article3/Article3_07.xml"
+
+- type: guideEntry
+  id: Article_3_08
+  name: guide-entry-nclp-article-3-section-08
+  text: "/ServerInfo/_Funkystation/Guidebook/NCLP/Article3/Article3_08.xml"
+
+- type: guideEntry
+  id: Article_3_09
+  name: guide-entry-nclp-article-3-section-09
+  text: "/ServerInfo/_Funkystation/Guidebook/NCLP/Article3/Article3_09.xml"
+
+- type: guideEntry
+  id: Article_3_10
+  name: guide-entry-nclp-article-3-section-10
+  text: "/ServerInfo/_Funkystation/Guidebook/NCLP/Article3/Article3_10.xml"
 
   # Article 4
 
