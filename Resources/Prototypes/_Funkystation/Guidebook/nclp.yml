@@ -12,6 +12,25 @@
   id: Article_1
   name: guide-entry-nclp-article-1
   text: "/ServerInfo/_Funkystation/Guidebook/NCLP/Article1/Article1.xml"
+  children:
+    - Article_1_01
+    - Article_1_02
+    - Article_1_03
+
+- type: guideEntry
+  id: Article_1_01
+  name: guide-entry-nclp-article-1-section-1
+  text: "/ServerInfo/_Funkystation/Guidebook/NCLP/Article1/Article1_01.xml"
+
+- type: guideEntry
+  id: Article_1_02
+  name: guide-entry-nclp-article-1-section-2
+  text: "/ServerInfo/_Funkystation/Guidebook/NCLP/Article1/Article1_02.xml"
+
+- type: guideEntry
+  id: Article_1_03
+  name: guide-entry-nclp-article-1-section-3
+  text: "/ServerInfo/_Funkystation/Guidebook/NCLP/Article1/Article1_03.xml"
 
 - type: guideEntry
   id: Article_2
