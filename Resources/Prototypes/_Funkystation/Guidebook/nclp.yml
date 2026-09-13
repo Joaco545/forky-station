@@ -41,15 +41,15 @@
   name: guide-entry-nclp-article-2
   text: "/ServerInfo/_Funkystation/Guidebook/NCLP/Article2/Article2.xml"
   children:
-    - Article2_01
-    - Article2_02
-    - Article2_03
-    - Article2_04
-    - Article2_05
-    - Article2_06
-    - Article2_07
-    - Article2_08
-    - Article2_09
+    - Article_2_01
+    - Article_2_02
+    - Article_2_03
+    - Article_2_04
+    - Article_2_05
+    - Article_2_06
+    - Article_2_07
+    - Article_2_08
+    - Article_2_09
 
 - type: guideEntry
   id: Article_2_01
