@@ -368,9 +368,9 @@
       color: "#c0c6cc"
     - state: icon_text
       color: "#c0c6cc"
-    - type: GuideHelp
-      guides:
-      - Article_1
+  - type: GuideHelp
+    guides:
+    - Article_1
 
 - type: entity
   id: BookSpaceLaw
