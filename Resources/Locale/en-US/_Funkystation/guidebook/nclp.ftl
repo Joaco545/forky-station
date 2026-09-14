@@ -28,7 +28,7 @@ guide-entry-nclp-article-3-section-08 = Service SOP
 guide-entry-nclp-article-3-section-09 = Civilians SOP
 guide-entry-nclp-article-3-section-10 = Addendum: ASC Provisional SOP
 
-guide-entry-nclp-article-5 = Article 5: Sentencing Guidelines
+guide-entry-nclp-article-5 = Article 5: Sentencing & Court Guidelines
 guide-entry-nclp-article-5-section-01 = Definitions
 guide-entry-nclp-article-5-section-02 = Sentencing guidelines
 guide-entry-nclp-article-5-section-03 = Court Proceedings
