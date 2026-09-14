@@ -1,4 +1,4 @@
-guide-entry-nclp = Law and Procedure
+guide-entry-nclp = NanoTrasen Law and Procedure
 
 guide-entry-nclp-article-1 = Article 1: Station Regulations
 guide-entry-nclp-article-1-section-01 = Alert Levels
