@@ -2,27 +2,36 @@
     # List of Crimes
 
     ## Crime Tiers
+
         NanoTrasen defines the following Crime Tiers:
 
         ### Infraction
-            Minor, non-criminal offenses. \n
-            An offense is especially considered only an Infraction if it causes minimal damage, and is easily reversible. \n
-            Possible Punishments: \n
+
+            Minor, non-criminal offenses.
+
+            An offense is especially considered only an Infraction if it causes minimal damage, and is easily reversible.
+
+            Possible Punishments:
+
                 - A financial penalty ticket and/or a formal warning.
                 - Explicitly do not result in brig time.
 
             Punishments for Infractions aren’t supposed to majorly interrupt the offender’s workplace productivity.
 
         ### Misdemeanor
+
             Crimes that cause harm to others or some level of asset loss, and aren’t as easily reversible.
 
         ### Felony
+
             Crimes that cause major harm, major asset loss, and/or are a major threat to the station’s operational safety.
 
         ### Capital Offense
+
             Crimes that cause irreversible harm or asset loss, and/or majorly disrupt the station’s operational safety.
 
     ## Criminal Offenses
+    
         NanoTrasen defines the following Infractions and Criminal Offenses:
 
         <Table Columns="10">

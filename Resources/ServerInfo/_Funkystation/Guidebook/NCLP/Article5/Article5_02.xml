@@ -59,22 +59,22 @@
             [bold]Attempted/Planned Crime[/bold]:\n
             Attempted or planned crimes are to be charged as the full crime committed, so long as there is clear evidence. A crime should not be charged as attempted if there is a more fitting lesser crime.
 
-            [bold]Alert Level[bold]:\n
+            [bold]Alert Level[/bold]:\n
             Committing a crime that directly goes against restrictions placed during a heightened alert level, or directly goes against a public announcement made by Command.
 
-            [bold]Brutality[bold]:\n
+            [bold]Brutality[/bold]:\n
             The crime was committed recklessly, with no regard for collateral damage, and/or with a complete lack of remorse.
 
-            [bold]Evasion of Enforcement[bold]:\n
+            [bold]Evasion of Enforcement[/bold]:\n
             The defendant greatly resisted arrest, or otherwise evaded and obstructed security from charging them.
 
-            [bold]Parole Violation[bold]:\n
+            [bold]Parole Violation[/bold]:\n
             The crime was committed while the defendant was on parole, or serving an alternative sentence.
 
-            [bold]Privileged Victim[bold]:\n
+            [bold]Privileged Victim[/bold]:\n
             The crime was committed, and concerns a member of high ranking or authority under NanoTrasen.
 
-            [bold]Repeat Offense[bold]:\n
+            [bold]Repeat Offense[/bold]:\n
             The Defendant has already been sentenced for the same crime this shift.
 
         ### Extenuating Circumstances
